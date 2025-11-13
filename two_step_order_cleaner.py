@@ -319,7 +319,7 @@ def main():
         st.download_button(
             label="Download cleaned order file",
             data=cleaned_bytes,
-            file_name="order__targeted_clear__by_code_and_nickname__noWest.xlsx",
+            file_name="Ori_Nabiji_შეკვეთა(ასატვირთი).xlsx",
             mime=(
                 "application/vnd.openxmlformats-officedocument."
                 "spreadsheetml.sheet"
